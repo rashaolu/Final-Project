@@ -2,7 +2,7 @@
 
 **Predicting Oscar Winners With Machine Learning**
 -
-**Contributers:**  Ruth Ashaolu, Nicole Bustamante, Gabriela Lopez, Kiana Navarre, Sarah Peterson, Kieran Taylor
+**Contributors:**  Ruth Ashaolu, Nicole Bustamante, Gabriela Lopez, Kiana Navarre, Sarah Peterson, Kieran Taylor
 
 
 **Project Objective:** This project aims to utilize machine learning techniques to provide valuable information to production companies, streaming services, and industry professionals regarding critically acclaimed movies. 
